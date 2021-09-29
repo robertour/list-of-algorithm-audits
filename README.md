@@ -36,6 +36,9 @@ The algorithm disparately treats or disparately impacts people on the basis of t
 * [Bias in Online freelance marketplaces: Evidence from TaskRabbit and Fiverr](https://doi.org/10.1145/2998181.2998327) (Hannak et al., 2017)
 * [Investigating the impact of gender on rank in resume search engines](https://doi.org/10.1145/3173574.3174225) (Chen et al., 2018)
 * [Fairness-aware ranking in search & recommendation systems with application to linkedin talent search](https://doi.org/10.1145/3292500.3330691) (Geyik, Ambler, and Kenthapadi, 2019)
+* [Detecting Race and Gender Bias in Visual Representation of AI on Web Search Engines](http://dx.doi.org/10.1007/978-3-030-78818-6_5)(Makhortykh et al., 2021)
+
+
 #### Recommendation
 * [Tracking gendered streams](https://doi.org/10.3384/cu.2000.1525.1792163) (Eriksson and Johansson, 2017)
 * [Building and Auditing Fair Algorithms: A Case Study in Candidate Screening](https://doi.org/10.1145/3442188.3445928) (Wilson et al., 2021)
@@ -74,7 +77,10 @@ The algorithm presents media that distorts or obscures an underlying reality. Fo
 * [Auditing local news presence on Google News](https://doi.org/10.1038/s41562-020-00954-0) (Fischer et al., 2020)
 * [Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube](https://doi.org/10.1145/3392854) (Hussein et al., 2020)
 * [The Media Coverage of the 2020 US Presidential Election Candidates through the Lens of Google’s Top Stories](https://ojs.aaai.org/index.php/ICWSM/article/view/7352) (Kawakami et al., 2020)
+* [How search engines disseminate information about COVID-19 and why they should do better](http://dx.doi.org/10.37016/mr-2020-017) (Makhortykh et al., 2020)
 * [Auditing Source Diversity Bias in Video Search Results Using Virtual Agents](https://doi.org/10.1145/3442442.3452306) (Urman et al., 2021)
+* [The matter of chance: auditing web search results related to the 2020 US presidential primary elections across six search engines](https://doi.org/10.1177/08944393211006863) (Urman et al., 2021)
+
 #### Mapping
 * [MapWatch: Detecting and monitoring international border personalization on online maps](https://doi.org/10.1145/2872427.2883016) (Soeller et al., 2016)
 #### Recommendation
